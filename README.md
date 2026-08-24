@@ -1,4 +1,3 @@
-/Users/ryomiyaoka/.zprofile:1: no such file or directory: /usr/local/bin/brew
 # INGassets
 
 Instagram Graph API 用の画像配信リポジトリ。
